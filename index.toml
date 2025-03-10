@@ -21,8 +21,16 @@ file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
 hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
 
 [[files]]
+file = "mods/FrozenLib-1.9.3-mc1.20.1.jar"
+hash = "2fb831d9da0f5ef0dcefc36412f3784081e2070a984aefc076010800c7b622b6"
+
+[[files]]
 file = "mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
 hash = "fb7e7d4235cabf8395478bc42aef6bbfdbbef8951ddf1f70f73719e0b24c99cc"
+
+[[files]]
+file = "mods/ImmersiveThunder-1.20.1+1.2.2.jar"
+hash = "ca62ef0e1b7eeb4079feb59622ebf26102e342ef0ff1eb1c8aa4466cff2222a6"
 
 [[files]]
 file = "mods/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
@@ -156,11 +164,6 @@ file = "mods/craftable-qss-2.1.jar"
 hash = "90bcad422c651463e0e9bc840a9436af596c81e81d8c5554b37706710d65060b"
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "9546278e225818314e6c26dd252285f993c79937364f72b5800dcae2c724e47f"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "84fc5bc0ed662d6e919bc7e9218ad5129ddbf55d69afa17304873a8e729c42aa"
 metafile = true
@@ -179,6 +182,10 @@ metafile = true
 file = "mods/create-trading-floor.pw.toml"
 hash = "218156db91c048c38dadd218f05ba985b78f53b9fe5672c45e131e397c80bfe2"
 metafile = true
+
+[[files]]
+file = "mods/create_dd-0.1d.jar"
+hash = "56dabaca5fb22386a06020401c95041a4b0229ac9256da29629cf4086804fa8c"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -294,9 +301,8 @@ hash = "8f6edf8b6066bc65daaeecb7fc995fa6b4e014f92d53c10260963570d9e0243b"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "7888fafcdb02347e807cc5851cf5da6650ea7d60e6ef507c89a65810ffa1e774"
-metafile = true
+file = "mods/entityculling-fabric-1.7.3-mc1.20.1.jar"
+hash = "4502f4fbdff70076e514c8a560197b209d7b148e268afe9ec602e5ca871b1ffb"
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
@@ -349,11 +355,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "7d5bfb2d7dea6386110f2f1f364696f43b23afa969be6f41cebafa7e7e992335"
-metafile = true
-
-[[files]]
-file = "mods/frozenlib.pw.toml"
-hash = "5372b7626e4561e7a6bc5666c63c1dda90e3ceec727edebc4c96a584dd2ba70f"
 metafile = true
 
 [[files]]
@@ -576,11 +577,6 @@ metafile = true
 [[files]]
 file = "mods/project-1070922.pw.toml"
 hash = "3c9137044071bd7339f668b55541f34f0cffb7a99b01360a94b7f19d55af57c9"
-metafile = true
-
-[[files]]
-file = "mods/project-1204215.pw.toml"
-hash = "4b5e4e3bb880cc50873b2ad1b2d9216a7afeb6089ee0b387b81ae5e70569ee98"
 metafile = true
 
 [[files]]
