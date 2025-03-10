@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/assets/minecraft/textures/misc/forcefield.png"
-hash = "0e7277353942e42f0e549ac8c7398add8a69c99ad621fc851e0e9846fe9f559a"
-
-[[files]]
-file = "kubejs/config/client.properties"
-hash = "ae748b0046c8bf231676a69cbfc031cc13d562670f6a0fabaa7df33d5a314cec"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "113260b7e4bbd6fcb2bedb159c2553a046bf1ee8a79672594831bef6cba27848"
-
-[[files]]
-file = "kubejs/config/packicon.png"
-hash = "6d2693920a55101322ef3e728f463f6eeb9bc5d711ad57d2f7852e9ca434a17a"
-
-[[files]]
 file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
 hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
 
@@ -521,9 +505,8 @@ hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "ab34cef75a406dfa31de7c074886a7a7f85e54d0d2fd4b6e54956bb633a857a0"
-metafile = true
+file = "mods/notenoughanimations-fabric-1.9.2-mc1.20.1.jar"
+hash = "9c39d4dc832e5c7996065ee3180d16a0f6880c4ea638890d8da3db8d0974f92a"
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
