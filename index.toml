@@ -101,8 +101,8 @@ hash = "48a51fd051ebe9e85046abd16f1479e7c2dacb13870f829b9f19facda5365592"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.20.1-fabric-1.114.3.jar"
-hash = "726137531188af7fc62699f3cfc62c3b5c2ab8e3d479d446e0af7d778682d1fc"
+file = "mods/cc-tweaked-1.20.1-fabric-1.114.4.jar"
+hash = "2c8cb684fcbc766fdda88b05d3c5b4ec81a7078ee4a2ba39658b05aa74821af8"
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
