@@ -304,6 +304,11 @@ file = "mods/entityculling-fabric-1.7.3-mc1.20.1.jar"
 hash = "4502f4fbdff70076e514c8a560197b209d7b148e268afe9ec602e5ca871b1ffb"
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "21c3264543db261d2b7fca1b0debbae16d11a1945999ff1dfa51551fec381bbf"
+metafile = true
+
+[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "24654eae131bcaa70201289bacec55cea91e0dc32014e08d41daec5138e4cb69"
 metafile = true
@@ -379,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "fe213ae1ba13c8cf1f6234cd4f36d181bf02fdfbc5389361ce64bb253884d933"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
 metafile = true
 
 [[files]]
