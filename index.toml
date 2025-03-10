@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/misc/forcefield.png"
+hash = "0e7277353942e42f0e549ac8c7398add8a69c99ad621fc851e0e9846fe9f559a"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "ae748b0046c8bf231676a69cbfc031cc13d562670f6a0fabaa7df33d5a314cec"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "113260b7e4bbd6fcb2bedb159c2553a046bf1ee8a79672594831bef6cba27848"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "6d2693920a55101322ef3e728f463f6eeb9bc5d711ad57d2f7852e9ca434a17a"
+
+[[files]]
 file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
 hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
 
@@ -559,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/project-1070922.pw.toml"
-hash = "5b36375ff568ac149663cdc24f8abee104f29ce03c976785b768b54431261743"
+hash = "3c9137044071bd7339f668b55541f34f0cffb7a99b01360a94b7f19d55af57c9"
 metafile = true
 
 [[files]]
@@ -775,3 +791,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f17f9d16b382e9082a4f963f16cfb973469fb1052cdf68188fea211bfe4ae4c3"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "5a703f45f86c440e65596d462614eb9c64cbbc4877e134bf2af6323b3ea07858"
