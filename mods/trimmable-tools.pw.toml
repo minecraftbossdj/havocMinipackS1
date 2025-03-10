@@ -1,0 +1,13 @@
+name = "Trimmable Tools"
+filename = "trimmable_tools-fabric-2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17fea7274b2ac12b8f9d431498b3f74f2e335f6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5955840
+project-id = 834329

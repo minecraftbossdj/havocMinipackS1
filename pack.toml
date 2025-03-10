@@ -1,0 +1,13 @@
+name = "Havoc Minipack S1"
+author = "minecraftbossdj, bigcrazyclaw"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7267904e76b65b3e2d9eab4e3fb9e79e394800cc039f96617124198478fe30f9"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

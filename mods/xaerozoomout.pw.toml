@@ -1,0 +1,13 @@
+name = "Xaero Zoomout"
+filename = "XaeroZoomout-Fabric-1.20-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8609d73f5b6fa94bf156e4cc8ae91925c234bd9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4998065
+project-id = 845615

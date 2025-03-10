@@ -1,0 +1,13 @@
+name = "Cooldown Coordinator"
+filename = "cooldown-coordinator-0.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "baae63b5aaa7161c9e662f45980d1725dbb924ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5382499
+project-id = 594072

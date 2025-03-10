@@ -1,0 +1,13 @@
+name = "Loot Journal (Fabric)"
+filename = "loot_journal-fabric-1.20.1-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33052100aeacd5ed356b8a5238cb718b9ee49613"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5813454
+project-id = 1120388

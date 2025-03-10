@@ -1,0 +1,13 @@
+name = "EMI"
+filename = "emi-1.1.20+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4ceb725727c247626453130e8ef84b6f41e4ebb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6205512
+project-id = 580555

@@ -1,0 +1,13 @@
+name = "project-917192"
+filename = "old-netherite-recipes-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9e4a06f19457efefa40b94fb87e6d8b3069df80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4771592
+project-id = 917192

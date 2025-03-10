@@ -1,0 +1,13 @@
+name = "Cloud Layers"
+filename = "cloud-layers-1.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d63c133ed1c5ceba7bffb7e8c949492dba2d003"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5933211
+project-id = 1146749
