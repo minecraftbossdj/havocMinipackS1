@@ -29,13 +29,18 @@ file = "mods/Storage Drawers-fabric-1.20.1-12.10.5.jar"
 hash = "e9ff785a6f6151846a741b1e8f756b29dcbd845e696823150bbd58af31a7ee8d"
 
 [[files]]
+file = "mods/advanced-reborn.pw.toml"
+hash = "bfcdc3178f9d7257d880236c15be91f9a216bfe92dc7d1dd4a8566261a145d8d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -87,8 +92,13 @@ hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
 metafile = true
 
 [[files]]
-file = "mods/cc-androids-1.0.1.jar"
-hash = "398836a23b77cc5bb9b33485920e1b69c55385f11fb970d906fe108548037663"
+file = "mods/cc-androids-1.1.2-cc-1.114.4.jar"
+hash = "2dafe8231f24254f2cf5181067eae347f4cfb2538cbeb74827fbea73ca9db770"
+
+[[files]]
+file = "mods/cc-cosmetics.pw.toml"
+hash = "48a51fd051ebe9e85046abd16f1479e7c2dacb13870f829b9f19facda5365592"
+metafile = true
 
 [[files]]
 file = "mods/cc-tweaked-1.20.1-fabric-1.114.3.jar"
@@ -141,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "45038756e54c4ef3e06cd97bf8ddd8bd22ac3077abfb479f0c379d6e99230f4c"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
 metafile = true
 
 [[files]]
@@ -304,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
+hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
 metafile = true
 
 [[files]]
@@ -434,6 +449,11 @@ metafile = true
 [[files]]
 file = "mods/loot-journal-fabric.pw.toml"
 hash = "91e94590cefddd737077bc1e68d0bd76ec089d42bc5fdc62ec21cde820e497af"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "257c5578bc5140f97b8761294dc73b1c180f81049dc5a790e43e1e7c4b1f9071"
 metafile = true
 
 [[files]]

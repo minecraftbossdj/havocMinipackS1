@@ -1,0 +1,13 @@
+name = "CC Cosmetics"
+filename = "TurtleCosmeticsFabric-1.2-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aW9xKXi7/versions/yS6ZNiWD/TurtleCosmeticsFabric-1.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "e88c17206ab0e64532ca813733201474f7d2fc61d36b493858782e7c06207b0320487b5acd5f61dc45edd959abcc552949ef64668f38c3e4248fa0fa1f2ab33b"
+
+[update]
+[update.modrinth]
+mod-id = "aW9xKXi7"
+version = "yS6ZNiWD"
