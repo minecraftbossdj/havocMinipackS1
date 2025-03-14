@@ -54,11 +54,6 @@ hash = "0010a7d77197b9013617872691ee7f359b66a10496c2bc0d8ed4aa059db02dc2"
 metafile = true
 
 [[files]]
-file = "mods/augmented-reborn.pw.toml"
-hash = "0a3a557627740d5d10f5cf2127984c481ea76b69333e1f6dcf132d1258272b89"
-metafile = true
-
-[[files]]
 file = "mods/balm-fabric-1.20.1-7.3.18.jar"
 hash = "15ac7918ce910dcad8585c43d48aad33456bd48cf17ca71d51b6fc512cca8741"
 
