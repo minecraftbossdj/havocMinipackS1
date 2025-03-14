@@ -3,11 +3,11 @@ filename = "entangled-1.3.20-fabric-mc1.20.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5017d7e0bc7d851b25beb2275ad799d18d7b74ab"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rylMOguI/versions/bsoLgCTu/entangled-1.3.20-fabric-mc1.20.4.jar"
+hash-format = "sha512"
+hash = "2d9ad5e28f160813db85a313d5a38bc4ec8d23ba1a85536eed04cbafa0b91e7d6781a18ccdcbdc47f056e9729ab6942f71465867e0788258ee13d8ad828c4950"
 
 [update]
-[update.curseforge]
-file-id = 5885915
-project-id = 301034
+[update.modrinth]
+mod-id = "rylMOguI"
+version = "bsoLgCTu"

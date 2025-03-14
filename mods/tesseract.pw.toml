@@ -1,0 +1,13 @@
+name = "Tesseract"
+filename = "tesseract-1.0.37-fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OUhp5O2m/versions/CdibaWWe/tesseract-1.0.37-fabric-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "4cc5406f6bac1355580f1a21532c424d5fbdcda57a24023adeaacab8e007200f745f681f906c5e94b4a2c4c17ab16c04c76c195fd734de7e0eb9cac4f3dd2db4"
+
+[update]
+[update.modrinth]
+mod-id = "OUhp5O2m"
+version = "CdibaWWe"

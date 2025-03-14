@@ -54,6 +54,11 @@ hash = "0010a7d77197b9013617872691ee7f359b66a10496c2bc0d8ed4aa059db02dc2"
 metafile = true
 
 [[files]]
+file = "mods/augmented-reborn.pw.toml"
+hash = "0a3a557627740d5d10f5cf2127984c481ea76b69333e1f6dcf132d1258272b89"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric-1.20.1-7.3.18.jar"
 hash = "15ac7918ce910dcad8585c43d48aad33456bd48cf17ca71d51b6fc512cca8741"
 
@@ -286,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/entangled.pw.toml"
-hash = "b7a4cbb1cdaf4ee3a2da4e738b194fa653867f6115c924e178b25d20a7a45eec"
+hash = "9750b0409186a164c35e609a05376439e40c52602eb8964b1dd97c337fa5a15a"
 metafile = true
 
 [[files]]
@@ -418,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-collectors.pw.toml"
-hash = "8ded7d69fa86e87a101d9875a321dd2c17765d8585d98a2683404d29720a2054"
+hash = "ca1aef36a0e2bfe383211f26542417ec8edca8c30ca32a9f3925801cc9398e35"
 metafile = true
 
 [[files]]
@@ -573,6 +578,11 @@ hash = "773eea8b01f8570be10ac366c20f19cba875e19014f8f1b0ff508996249d7b45"
 metafile = true
 
 [[files]]
+file = "mods/pipeplus.pw.toml"
+hash = "a3d03ec7b2e75773284aab8c2afe7cb7b44ab53fde260e1a257eadbe0f9434f8"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "3185fd9b2b5e4895e6fbfe4fb4b682bcccb7848392d11358a75dcfce8dc8114f"
 metafile = true
@@ -604,6 +614,11 @@ hash = "4d4d51f21594f0b9d233a34e6217ccb5bdca8a27277c2bbe68a908063e336823"
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0262df78f767ee3ef2d32c1815b82b2f5710ea7c934bd875639a711197f27342"
+metafile = true
+
+[[files]]
+file = "mods/quarry-reborn.pw.toml"
+hash = "47a6384163025614d494e39b58a437b66fa3b9dc7eada229dbff17dc5437f124"
 metafile = true
 
 [[files]]
@@ -656,6 +671,11 @@ file = "mods/silk-all-1.10.1.jar"
 hash = "348aa6f66135db051ac20753fa792506864346afd1051ffaae5604c290f94338"
 
 [[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "c0a650dd4779fc0bf065f776609ac9db3ec295af35ee12fe191a29cd567561f9"
+metafile = true
+
+[[files]]
 file = "mods/sit1.pw.toml"
 hash = "15e66c533d28119148b0dab52ee3a727b84db126e993c60209e46a9be1d4e570"
 metafile = true
@@ -700,12 +720,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "01517bbce0fa34ab1a08764bb169c532e9cb4e30df04b838d3e5935692a25491"
+hash = "6fba63f2152b6e51365f55d4a689f61053a4aa8b785e904715aef3d595a9fcb8"
 metafile = true
 
 [[files]]
@@ -722,6 +742,11 @@ hash = "f3584186d2d6f364f890a01c95162d05ada1ef980bcf7a3101df3a8a41287f40"
 metafile = true
 
 [[files]]
+file = "mods/tesseract.pw.toml"
+hash = "e7c9248efd2edf24e03b4b7637f75762dbaad87337800d08c0e7434ab9e81792"
+metafile = true
+
+[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "0c746fcb31d40ead1f72cd9032616218dc81e77bd97d8387754553222b465849"
 metafile = true
@@ -734,6 +759,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "a9b60e8434424b2c10e0de9b5d3ab98325b10df2dd9e6aed82e8d7828c981b9f"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "179b326687b34c0dde9370aedc47a7cdf5115483c2287df73c96b5380e31148e"
 metafile = true
 
 [[files]]
@@ -779,6 +809,11 @@ metafile = true
 [[files]]
 file = "mods/world-border.pw.toml"
 hash = "a303192d78ce87e6249c6ef4090c2d706b8bbbe0440a55b7d7bdc61db195370a"
+metafile = true
+
+[[files]]
+file = "mods/wormhole.pw.toml"
+hash = "f74cf16525116683cad924e917df35c8c7d76ee8ce190ed801797387136bbcb7"
 metafile = true
 
 [[files]]

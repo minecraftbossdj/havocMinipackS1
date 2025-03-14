@@ -3,11 +3,11 @@ filename = "itemcollectors-1.1.10-fabric-mc1.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "212a6d720bc64118a336b23770cf57def41c47d3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/y9vDr4Th/versions/W2clu40G/itemcollectors-1.1.10-fabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "d3bf50fafd3affc2e82f90d3ca0c1c4cf0aa6946ddb3190411155bc2c242491b7b017c2ea2c8d724f408f84f68207c73ae724b36c3f51509302b13f0857c741e"
 
 [update]
-[update.curseforge]
-file-id = 5273025
-project-id = 395620
+[update.modrinth]
+mod-id = "y9vDr4Th"
+version = "W2clu40G"
