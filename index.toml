@@ -82,6 +82,11 @@ hash = "208e3ef9a5b2dee3d7daa09f6aaf6cd2cbc3bcd45029917e56fe186a6f853b9e"
 metafile = true
 
 [[files]]
+file = "mods/bodies-bodies.pw.toml"
+hash = "2c980be6046f210ebfcf09c4644592d215a6e61a04c08850b3eb7170222288f3"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "62eee72c3a020fa7e20ddb186d6831b2a8561ab8f1345b0e3bf1d3fa5322ce90"
 metafile = true
@@ -389,11 +394,6 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "fe213ae1ba13c8cf1f6234cd4f36d181bf02fdfbc5389361ce64bb253884d933"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
 metafile = true
 
 [[files]]

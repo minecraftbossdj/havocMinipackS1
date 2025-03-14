@@ -1,0 +1,13 @@
+name = "Bodies! Bodies!"
+filename = "BodiesBodies-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t3rZrJqo/versions/5HUrkJxh/BodiesBodies-1.0.1.jar"
+hash-format = "sha512"
+hash = "7d4bdbf91e52036bb5b9dcd9a4ed9e9ea2e9a1a7cc8f2c841b74343c7e640ef47f4c97ea64f4c85870207d4e822d3bbcc2a9f9d39b7b4b6be26f04e9c6564a7e"
+
+[update]
+[update.modrinth]
+mod-id = "t3rZrJqo"
+version = "5HUrkJxh"
