@@ -207,6 +207,11 @@ hash = "30ac8878dbdb811eb5f7dfc727cfa1c0f272f29efbce57ea05457921a271dd05"
 metafile = true
 
 [[files]]
+file = "mods/deep-mob-learning-refabricated.pw.toml"
+hash = "f0be2dae53087ee786fc13a99d42bed4f6410e786e7f8b12820b23b7cec86d38"
+metafile = true
+
+[[files]]
 file = "mods/deimos-fabric-forge-neoforge.pw.toml"
 hash = "67ba7b15dd163b8fc100da13e15b343b1454ec48d7cfab90680a141faa361094"
 metafile = true
@@ -334,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5b9d1e1ec60004c0bd38a134b7b8987583250200238abe84180b1f5bea839eae"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -698,10 +703,6 @@ metafile = true
 file = "mods/sound.pw.toml"
 hash = "616369bd76a205200793a30151cf9d43238adfdf5fa3cf53052209757a4f3066"
 metafile = true
-
-[[files]]
-file = "mods/spawnanimations-v1.10-mc1.17x-1.21x-mod.jar"
-hash = "c5833e3bb951fc2a06ab50e4b0693f4689328dca667497fd65764ccdce5b62db"
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
